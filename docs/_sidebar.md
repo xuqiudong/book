@@ -1,3 +1,3 @@
 * [首页](/)
-* [指南](/guide)
+* [装机软件](/soft)
 * [S&F](/game/learningsf)
