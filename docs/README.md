@@ -6,13 +6,13 @@
 
 > An awesome project.
 
-### [gitee](https://gitee.com/lcxm)
+### [临窗旋墨的Gitee](https://gitee.com/lcxm)
 
 #### 次级标题1
 
 - 记录了一些主要的个人项目以及代码片段
 
-### [博客](https://xuqiudong.cn/)
+### [临窗旋墨的博客](https://xuqiudong.cn/)
 
 #### 次级标题2
 
@@ -20,6 +20,4 @@
 >
 > 记录了以前写的几首小诗。
 
-
-
-[测试进入二级菜单：guide](./guide.md)
+./guide.md)
