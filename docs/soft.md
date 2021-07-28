@@ -56,6 +56,7 @@
 - `Captura`: 录屏
 - `foxmail`：邮件客户端
 - `网易云音乐`：音乐
+- `QTTabBar`：[QTTabBar: QTTabBar是一款可以让你在Windows资源管理器中使用多标签功能扩展工具 (gitee.com)](https://gitee.com/mirrors/QTTabBar)
 
 
 
