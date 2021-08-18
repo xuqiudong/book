@@ -58,14 +58,11 @@
 - `网易云音乐`：音乐
 - `QTTabBar`：[QTTabBar: QTTabBar是一款可以让你在Windows资源管理器中使用多标签功能扩展工具 (gitee.com)](https://gitee.com/mirrors/QTTabBar)
 
-
-
-#### 其他
-
 - `utool`
 - `ScreenToGif`
-- 腾讯桌面整理
-- `idm`:下载工具
+- 腾讯桌面整理：桌面格子
+- `idm`:下载工具 
+- `ndm`：[下载工具，及浏览器扩展（idm的免费版）](http://www.neatdownloadmanager.com/index.php/en/)
 - `VeraCrypt`:  加密
 - `SpaceSniffer`：磁盘文件扫描
 
