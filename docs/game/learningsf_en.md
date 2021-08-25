@@ -192,3 +192,182 @@ Players often ask why one would want others to attack his fortress at all. The r
 the top and won’t be lost when the list is overwritten with new messages.
 
 #### 2.5 Maximizing wood/stone rewards
+
+It’s tempting for new players to just keep all buildings the same level. And since there is an achievement for upgrading all of them to level 15, many get tricked that this is the expected way to play.
+
+But practice shows that some buildings are substantially more important than the rest, while others are so useless, that you don’t ever need to upgrade them beyond level 1 (as was already explained in first section of this chapter).
+
+The most important building of all is undisputedly the Fortress building itself. And it’s not because you need to build that just to please some Fortress deity, sacrificing your nerves and free time. As always, there is a reasonable explanation.
+
+First of all, the amount of the wood and stone rewards that you receive from the wheel of fortune, dice game and quests (quests can give wood and stone only during the Fortress event) depend on the level of the Fortress building.
+
+For example, you can expect the following wood and stone rewards with Fortress 15:
+
+- Fortress lvl 15    wood   stone
+- Outside Fortress event:
+- Dice (x5)           ~4.5 million   ~1.5 million
+- Wheel (x3)        453600            151200
+- During Fortress event (x2):
+- Quest                   750000           250000
+- Dice (x5)          ~9 million        ~3 million
+- Wheel (x3)        907200       302400
+
+As you can see above, with Fortress 15, a single quest during the Fortress event rewards you with 750K wood or 250K stone. How many of those quests you will be given during the event depends on pure luck. That is why it’s impossible to calculate exactly how much wood and stone you can earn. Yet consider that getting 10+ quests with wood or stone rewards for a single day is pretty common (with 320 thirst per day), and netting +7M wood and +2M stone during the whole event is definitely not unusual.
+
+Each level of Fortress almost doubles the amounts of those rewards. At level 20 of Fortress (the maximum Fortress level), you will see the following rewards:
+
+- Fortress lvl 20    wood   stone
+- Outside Fortress event:
+- Dice (x5)           90 million   30 million
+- Wheel (x3)        9 million    30million
+- During Fortress event (x2):
+- Quest                   15  million          5  million   
+- Dice (x5)          180 million        60 million
+- Wheel (x3)        18 million        6 million
+
+To make better use of the rewards during the event,you should plan what to build, trying to have the highest level of Fortress possible at the Friday morning, when it starts.
+
+There is a very useful website (https://en.4m7.de/sammelalbum/festung.php) that
+shows exactly how much resources each of the Fortress buildings costs, and how much time it takes to build.
+
+ I can’t recommend you to skip any building time with mushrooms, as that is very expensive. But if you really want and can afford to do that, at least limit yourself to skipping it only on the Fridays during Fortress events. If you skip only the remaining building time, completing the next Fortress level (exactly before starting quests or using dice/wheel), you will still benefit from nearly double rewards during the event, without even skipping a whole level.
+
+Another well known way to maximize rewards is to choose the shortest quests during Fortress events. That is, the shortest quests that have no item/fruit/hourglass reward (you can’t find resources with quests that give items/fruits/hourglasses). The goal is to do more quests with same thirst, and thus to have slightly better chance for getting more wood or stone.
+
+
+
+#### 2.6 Important buildings
+
+The most important buildings you should focus on are Laborers’ Quarters, Fortress, Gem Mine, Academy and Teasury:
+
+##### Laborer Quarters
+
+(often called just Lab), as for each level it reduces by 5% the building time and
+the time needed to find gems. Usually this is the first building to upgrade immediately after building a next level of Fortress (always keeping it same level as Fortress). Though, people who push for HoK 15 early stop upgrading the Lab at level 12 (sometimes even at level 11), and continue building it only once they have HoK 15. And since Lab is important, if you follow this approach, you should immediately upgrade it to level 15 (the max level) as soon as you have bought the HoK 15 upgrade.
+
+##### Fortress
+
+because, as was already explained in the previous section, the amount of the rewards you get from quests during the Forest event, and also the amounts you get from the wheel of fortune and the dice game, depend on the level of your Fortress building.
+
+##### Gem Mine
+
+because it improves the stats of the gems you receive. There are different approaches on when to start upgrading the Gem Mine. What most players do, is to start upgrading it sometime after level 70-80, and have it at level 10 by the time they reach level 100-110. The reason is that around those levels they are strong enough to clear the first 9 dungeons, and to unlock the Tower dungeon. And having Gem Mine level 10 and access to the Tower dungeon are the two requirements for unlocking the Underworld.
+
+ It was already explained how long you should keep Gem Mine at level 1 before pushing it to level 10. People also often ask when to start upgrading it beyond level 10. As you already know, the higher the level of that mine, the longer it takes to find gems, and the more wood and stone they cost.
+
+It does not take much time for your character to reach level 215-225, and that is completely possible with Gem Mine 10 (even with Gem Mine 1). Quickly reaching those levels means you need to change gems with better ones more often (as stats of gems depend also on your character level). That is why it is not advisable to even think about making it level 11 before your char has leveled up to 225.
+
+​    One can say that leveling up from 225 to 315 is also not that slow, so keeping Gem Mine at level 10 throughout those levels is generally a good plan, again, allowing you to change gems for your char and your companions more often. Around level 315 dungeon monsters become much more harder and progress slows down. That’s why level 300 is a pretty good moment to start upgrading the Gem Mine beyond level 10 (eg. at least to level 13-14), without ignoring too much the other important buildings.
+
+Whatever time you choose to do that, make sure that your Fortress is always at least 1 level (may be even 2 levels) above your Gem Mine, or you might find yourself short on wood and stone. This actually matters only if you don’t have a serious fortress buddy to exchange counter-attacks with.
+
+I personally keep Gem Mine at level 10 until I have a Fortress of at least level 17 or even 18, then upgrade Gem Mine to level 13-14 as first priority, before focusing on Fortress 20.
+
+##### Academy
+
+Academy is not very useful early as it gives too little XP when your character is low level. Still, if you completely ignore it, you will lose lots of XP later on. My approach is to usually upgrade Academy to level 10-11 after getting Gem Mine to level 10 and Laborers’ Quarters to level 12, and to keep it at that level until I have Fortress 20. Upgrading Academy to level 20 is my first priority once my Fortress reaches the max level.
+
+If you already have enough resources for next level of Fortress, you could also build a few levels  of Academy (eg. to level 12-14) in between, when your Fortress is at level 17-18. It’s good to have Academy 14 early, as at that level it can accumulate exactly 8 hours of XP. This means you don’t lose any XP while you sleep. And if you sleep longer than that, just build 1 more level.
+
+##### Teasury
+
+Teasury determines how many slots for items you have in your backpack. And space in backpack is never enough. It’s considered especially important at higher levels (eg. around 370 level), as by that time you already find normal items that sell for 5M gold to the witch. And 5M is half of a stat point. You also need some free space for backup items with quest runes (max 8 slots for that), and some to save epic items for toilet (minimum 3, to be able to save at least 3 items for Toilet events). All this just goes to show that upgrading Teasury is never a mistake.
+
+
+
+#### 2.7  Planning for HoK 20
+
+The fastest way to reach HoK 20 (the maximum), is to build Fortress 20 first (again, the maximum) and only then to buy all of the HoK upgrades.
+
+ Of course, you can’t stay with HoK 0 until you reach Fortress 20, since the quality of gems (stats) in your guild depends on everyones HoK, yours included. Actually the quality of the gems depends on your level, the level of your gem mine and the guild HoK. But early in the life of a new server players have low levels and Gem Mine 1, so the amount of the guild HoK has the most tangible effect at gem stats in the early game (and thus at progress in dungeons).
+
+The good news is that all HoK upgrades until level 12 actually don’t cost much, so there is no reason to save resources for the main building by not bying those. 50 players with HoK 12 amount to total HoK of 600, which means +200 stats on your gems. That is more than enough even for the most ambitious and impatient players, who want to push dungeons and level up quickly.
+
+I often see players who are tricked to believe that small differences in HoK have a huge effect on their characters even at higher levels. Sometimes leaders and officers use small difference in HoK as a reason to kick and replace players (guilty, also happened to me several times). Others protest when someone in the guild has 1-2 less HoK than the average and use that as a reason to change guilds.
+
+As was already explained a HoK of 600 gives you +200 stats on your gems (1/3 of HoK), so if another guild has 660 HoK that means they can only get +20 stats on their gems. If you were level 50 those +20 stats could matter more, but at level 250+ (when your Gem Mine is already level 10), those +20 stats can at best help you pass a single floor of a dungeon. Small differences are even more meaningless when you are close to the maximum (max is 1000 HoK, and that happens when your average guild level is at least 370+).
+
+Deviated from the topic a bit, but seemed important to emphasize how insignificant those small differences are. Now full ahead to HoK 20.
+
+Since HoK upgrades from 13 to 20 are much more expensive, it makes sense to make some planning and change the approach once both your Fortress and HoK are level 12. Buying HoK 13 alone costs ~3M wood and ~1M stone. Getting that before Fortress 14 can delay you in collecting enough resources for the main building, which in turn would mean smaller rewards from dice and wheel, or the next Fortress event.
+
+ That’s why many players stop bying HoK upgrades at 12, and only continue to build Fortress until it’s level 15. Once that is ready, they can afford to buy HoK 13-15 almost at once. Now you could ask why stop at Fortress 15 then, why not push to Fortress 20 and only then buy the upgrades.
+
+As was already mentioned, you can’t ignore HoK completely. Gem stats depend on that, but what’s more important is that each player with HoK 15 in the guild increases everyone’s chances to mine black gems. A popular belief is that each HoK 15 in the guild increases the chance with about 1%, so having 50 players with HoK 15 in your guild could give you a chance of 50% to mine a black gem (and +250 stats for your gems).
+
+Once you have HoK 15, make sure to frst upgrade your Laborers’ Quarters building to level 15. At that level it reduces both the building time and the time for mining of gems by 75%, so getting it should be your first priority. After that feel free to focus only on the Fortress building until it reaches its maximum level of 20.
+
+#### 2.8 Mid to late build order
+
+There are different approaches to develop your Fortress. What was outlined above is a popular way to max out the main building and HoK, even if you are not too invested in fortress counter-attacks and have no intention to skip any building time. I will often
+give opionated advice in this book, trying to suggest an approach that works well for most people. To stay true to that, what follows next is a sample build plan for development of Fortress after level 7 (for the early build order check several sections above), which tries to summarize everything said so far:
+
+-  Fortress, Laborers’ Quarters and HoK until level 10;
+- Gem Mine to level 10 (required to unlock Underworld, but some hardcore players actually keep it level 1 longer and play without Gladiator until level 215-225+);
+-  Woodcutter and Stone Quarry to level 9;
+- Barracks to level 7/8;
+- If you have no fortress buddy to counter-attack with, also upgrade your Smithy to level 9;
+- Continue with Fortress, Laborers’ Quarters and HoK until level 12;
+- Woodcutter and Stone Quarry to level 10;
+- Academy to level 10 and Treasury to level 8-10;
+- Only Fortress until level 15;
+- Buy HoKs 13-15;
+- Only Laborers’ Quarters until level 15;
+- Fortress to level 17/18;
+- If you are already level 300+, build Gem Mine to level 13/14;
+- Only Fortress until level 20;
+- Buy HoKs 16-20;
+- Treasury to level 12/13;
+- Academy to level 20;
+- Once Academy is lvl 20 you need to focus only on Treasury and Gem Mine. Which one you push more depends on your style of play (note that max level of Treasury is 50 and max level of Gem Mine is 100):
+  - If you want to be an efcient late-game player, you need more spaces in backpack (to save items for witch, epics for toilet events or dismantling). In that case push the Treasury much more than the Gem Mine. For example, you can upgrade the Gem Mine to level 17/18 (so that you are not too weak in dungeons and fights), and then push Treasury to level 30+ before touching Gem Mine again. Once Treasury is level 50, keep building only Gem Mine until it reaches level 100.
+  - If you want to be strong in mid game (here and now, not years later), at the cost
+    of losing gold and arcane splinters (holy gold, who would do anything so outrageous, stop and think again), you can focus more on Gem Mine. If that’s your choice, have in mind that there are already players with Gem Mine level 100 at old servers, and it’s clear that Gem Mine levels from 50 to 100 barely improve your gem stats at all. So even if you choose this approach, there is no reason to upgrade Gem Mine to more than level 50 before your Treasury is maxed out. Considering that, you could first upgrade Gem Mine to level 20 (each Gem Mine level from 16 to 20 slightly reduces the mining time, and at level 20 is when you unlock an earth pet, if that matters to you), and while mining new gems for your char and companions could build a few levels of Treasury. Next you could focus at Gem Mine, until it reaches level 50 (building a few Treasury levels here and there in between). Actually, after Gem Mine level 25 you are allowed to upgrade the Gem Mine and search for gems  simultaneously, so you don’t need to plan when to replace gems anymore. Again, once Gem Mine is level 50 (or even 40), stop upgrading it and make sure to max out Treasury to level 50 before you continue with the Gem Mine.
+
+### Chapter 3 Other features unlocked by level 100
+
+TODO:
+
+#### 3.1 Mirror
+
+TODO:
+
+#### 3.2 Witch
+
+TODO:
+
+#### 3.3 Pets
+
+TODO: 
+
+First explain how to find the pet nest
+
+Which pets to feed Shadow Pets
+TODO:
+Light Pets
+TODO:
+Earth Pets
+TODO:
+Fire Pets
+TODO:
+Water Pets
+TODO:
+
+#### 3.4 The Blacksmith
+
+Upgrading items
+TODO:
+What to use splinters for
+TODO:
+Getting more metal and splinters
+TODO:
+
+#### 3.5 Toilet
+
+What does the aura give you
+TODO:
+
+What items to throw
+TODO:
+
+### Chapter 4 Arena Manager
